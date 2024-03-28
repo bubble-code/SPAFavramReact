@@ -6,8 +6,7 @@ const Layout = () => {
       <div className="header-app">
         <MiNavbar />
       </div>
-      <div className="flex">
-        sdsds
+      <div className="flex px-10 mx-auto">
         <Outlet />
       </div>
       <div className="footer-app"></div>
